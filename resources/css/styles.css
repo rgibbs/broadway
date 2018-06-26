@@ -22,9 +22,19 @@ p {
   font-size: 14px;
 }
 
-
 .header, .design {
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-color: #cccccc;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer nav {
+  font-size: 18px
 }
